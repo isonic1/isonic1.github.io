@@ -12128,7 +12128,7 @@ section.u-image,
 }
 .u-offcanvas-opened .u-header.u-sticky {
   z-index: auto;
-  position: absolute !important;
+  position: static;
 }
 .u-offcanvas-opened .u-header.u-sticky + section {
   z-index: -1;
